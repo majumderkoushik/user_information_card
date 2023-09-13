@@ -24,6 +24,10 @@ Follow these instructions to get the User Information Card Web App up and runnin
 
 
 JavaScript:Used for function of the page
+
+
+
+
 HTML/CSS: Used for structuring the web page and styling the user information card.
 
 
