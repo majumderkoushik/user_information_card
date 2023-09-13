@@ -21,6 +21,8 @@ You can see a live demo of the User Information Card Web App [here](https://maju
 Follow these instructions to get the User Information Card Web App up and running on your local machine.
 
 ##Technologies Used
+
+
 JavaScript:Used for function of the page
 HTML/CSS: Used for structuring the web page and styling the user information card.
 
