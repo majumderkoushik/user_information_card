@@ -7,11 +7,11 @@ This is a simple web application that allows users to input their information, s
 
 ## Demo
 
-You can see a live demo of the User Information Card Web App [here](https://example.com).
+You can see a live demo of the User Information Card Web App [here](https://majumderkoushik.github.io/user_information_card/).
 
 ## Features
 
-- **User Input Form**: Users can enter their first-name, last-name, contry,state.
+- **User Input Form**: Users can enter their first-name, last-name, Country,State,etc.
 - **Card Generation**: After submitting the form, a user information card is generated with the provided details and displayed on the screen.
 - **Responsive Design**: The application is responsive and adapts to different screen sizes.
 
