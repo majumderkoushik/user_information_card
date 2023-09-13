@@ -14,10 +14,16 @@ You can see a live demo of the User Information Card Web App [here](https://maju
 - **User Input Form**: Users can enter their first-name, last-name, Country,State,etc.
 - **Card Generation**: After submitting the form, a user information card is generated with the provided details and displayed on the screen.
 - **Responsive Design**: The application is responsive and adapts to different screen sizes.
+- 
 
 ## Getting Started
 
 Follow these instructions to get the User Information Card Web App up and running on your local machine.
+
+##Technologies Used
+JavaScript:Used for function of the page
+HTML/CSS: Used for structuring the web page and styling the user information card.
+
 
 
 ### Installation
@@ -25,4 +31,7 @@ Follow these instructions to get the User Information Card Web App up and runnin
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/user-information-card-app.git
+   git clone https://github.com/majumderkoushik/user_information_card
+
+   
+Open the index.html file in your web browser to launch the application
